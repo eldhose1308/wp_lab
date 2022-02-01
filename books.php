@@ -61,7 +61,7 @@ if (isset($_POST['search_book'])) {
 <body>
 
     <center>
-        <h3>Railway ticket booking</h3>
+        <h3>Book store management</h3>
     </center>
 
     <div class="container">
